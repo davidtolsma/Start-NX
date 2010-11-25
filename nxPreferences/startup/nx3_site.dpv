@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="nx3_site.xsl"?>
+<PrefValues defaultLockStatus="unlocked">
+<Pref Tab="Color Settings" name="UG_drawingWidthDisplay" title="Show Widths" value="0" Category="Visualization" modified="2005-06-15T14:50:54" Application="Gateway" displayValue="No"/>
+<Pref Tab="Line" name="UG_widthDisplay" title="Show Widths" value="2" Category="Visualization" modified="2006-03-15T17:07:57" Application="Gateway" displayValue="No"/>
+<Pref Tab="View" name="Drafting_borderDisplay" title="Display Borders" value="0" Category="General" modified="2006-03-15T16:11:10" Application="Drafting" displayValue="No"/>
+<Pref Tab="Work Part" name="Assemblies_WorkPartMaintain" title="Maintain Work Part" value="0" Category="General" modified="2006-03-15T16:13:51" Application="Assemblies" displayValue="No"/>
+<Pref Tab="Hidden Lines" name="Drafting_ehe" title="Edges Hidden by Edges" value="1" Category="View" modified="2006-03-15T17:08:38" Application="Drafting" displayValue="On"/>
+<Pref Tab="Dimensions" name="Drafting_dimensionDecimalPlaces_MU" title="Dimension Decimal Places" value="2" Category="Annotation" modified="2005-12-02T21:14:52" Application="Drafting" displayValue="2"/>
+<Pref Tab="Color Settings" name="UG_drawingMonochromeDisplay" title="Monochrome Drawing Display" value="0" Category="Visualization" modified="2005-06-15T14:50:47" Application="Gateway" displayValue="Off"/>
+<Pref Tab="Part" name="UG_initialUnits" title="Default Units" value="1" Category="General" modified="2005-06-15T14:50:03" Application="Gateway" displayValue="Millimeters"><UserComment>Millimeters are the default</UserComment></Pref>
+<Pref Tab="All" name="UG_PartNav_TreeMode" title="Timestamp Order" value="0" Category="Part Navigator" modified="2006-01-06T19:43:23" Application="Gateway" displayValue="Yes"/>
+<Pref Tab="Units" name="Drafting_decimalPoint_MU" title="Decimal Point Character" value="0" Category="Annotation" modified="2005-12-02T21:15:12" Application="Drafting" displayValue="Period"/>
+<Pref Tab="Layer Dialog" name="UG_showCategoryNames" title="Show Category Names" value="1" Category="User Interface" modified="2006-03-15T16:08:18" Application="Gateway" displayValue="Yes"/>
+<Pref Tab="Layer Dialog" name="UG_showObjectCount" title="Show Object Count" value="1" Category="User Interface" modified="2006-03-15T16:08:17" Application="Gateway" displayValue="Yes"/>
+<Pref Tab="Dimensions" name="Drafting_textOrientation_MU" title="Text Orientation" value="1" Category="Annotation" modified="2005-12-02T21:14:47" Application="Drafting" displayValue="Horizontal"/>
+<Pref Tab="General" name="Drafting_uvhatch" title="UV Grid" value="0" Category="View" modified="2005-06-15T14:53:04" Application="Drafting" displayValue="Off"/>
+</PrefValues>

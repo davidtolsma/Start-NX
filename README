@@ -1,0 +1,5 @@
+Copy the LocalStart.bat file anywhere on your machine to run
+
+Move the start.bat and the folder to a shared location
+
+Modify the localStart.bat file to point to the start.bat location and set the version of NX you are using. Additional commented out lines can be uncommented and added to test and run different environments.

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="nx4_site.xsl"?>
+<PrefValues defaultLockStatus="unlocked">
+<Pref Tab="Directories" name="UG_initialPartDir_WIN" title="Part File Directory" value="${HOME}" Category="General" modified="2006-09-19T13:19:04" Application="Gateway" displayValue="${HOME}"/>
+<Pref Tab="Part" name="UG_initialUnits" title="Default Units" value="1" Category="General" modified="2007-02-02T16:12:01" Application="Gateway" displayValue="Millimeters"/>
+</PrefValues>

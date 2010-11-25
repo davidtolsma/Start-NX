@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="nx3_user.xsl"?>
+<PrefValues defaultLockStatus="unlocked">
+<Pref Tab="Part Name Versions" name="Assemblies_VersionType" title="Version Type" value="5" Category="Site Standards" modified="2006-10-17T19:41:26" Application="Assemblies" displayValue="Alphanumeric"/>
+<Pref Tab="Part Name Versions" name="Assemblies_PartNameFormat" title="Full Part File Name Format" value="([dD]?[0-9]{7,9})([0a-zA-Z]{1,2})" Category="Site Standards" modified="2006-10-17T19:41:30" Application="Assemblies" displayValue="([dD]?[0-9]{7,9})([0a-zA-Z]{1,2})"/>
+<Pref Tab="Part Name Versions" name="Assemblies_VersionSubstitution" title="Version Section of Part File Name Match" value="\1" Category="Site Standards" modified="2006-10-17T19:03:32" Application="Assemblies" displayValue="\1"/>
+<Pref Tab="Hidden Lines" name="Drafting_hlWidth" title="Width" value="2" Category="View" modified="2006-03-15T17:07:08" Application="Drafting" displayValue="Thin"/>
+<Pref Tab="Part Name Versions" name="Assemblies_PartNameMatch" title="Part File Name Match" value="\1([0a-zA-Z]{1,2})" Category="Site Standards" modified="2006-10-17T19:41:33" Application="Assemblies" displayValue="\1([0a-zA-Z]{1,2})"/>
+<Pref Tab="Part Name Versions" name="Assemblies_PartNameSubstitution" title="Version Independent Section of the Part File Name" value="\1" Category="Site Standards" modified="2006-10-17T19:03:23" Application="Assemblies" displayValue="\1"/>
+<Pref Tab="Hidden Lines" name="Drafting_ehe" title="Edges Hidden by Edges" value="1" Category="View" modified="2006-03-15T17:07:20" Application="Drafting" displayValue="On"/>
+<Pref Tab="Directories" name="UG_initialUFunDir_WIN" title="User Function Program Directory" value="C:\Documents\MyProjects\scriptsAndPrograms\NXOpen\sample\bin\Debug\" Category="General" modified="2005-09-22T13:09:55" Application="Gateway" displayValue="C:\Documents\MyProjects\scriptsAndPrograms\NXOpen\sample\bin\Debug\"/>
+<Pref Tab="Part" name="UG_initialUnits" title="Default Units" value="1" Category="General" modified="2005-09-02T18:05:45" Application="Gateway" displayValue="Millimeters"/>
+<Pref Tab="All" name="UG_PartNav_TreeMode" title="Timestamp Order" value="0" Category="Part Navigator" modified="2006-01-06T19:43:10" Application="Gateway" displayValue="Yes"/>
+<Pref Tab="Grid (drawing)" name="UG_showDrawingGrid" title="Display Grid on Drawing Sheets" value="0" Category="Work Plane" modified="2005-06-15T14:54:12" Application="Gateway" displayValue="No"/>
+<Pref Tab="User Defined Feature" name="Solids_UdfLibraryFile_WIN" title="Library File" value="C:\Downloads\Morgan Olson - 10-17-06 - UDF files\Morgan Olson - 10-17-06 - UDF files\udf_database.txt" Category="Feature Settings" modified="2006-10-17T16:30:43" Application="Modeling" displayValue="C:\Downloads\Morgan Olson - 10-17-06 - UDF files\Morgan Olson - 10-17-06 - UDF files\udf_database.txt"/>
+</PrefValues>
